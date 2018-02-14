@@ -7,10 +7,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>utplsql-maven-plugin Maven Plugin Build</name>
 
-    <!-- FIXME change it to the project's website -->
-    <url>http://maven.apache.org</url>
+	<name>utplsql-maven-plugin Maven Plugin</name>
+
+	<url>http://utplsql.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
